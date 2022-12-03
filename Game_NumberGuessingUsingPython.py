@@ -10,6 +10,4 @@ while n!= guess:
         guess = int(input("Enter number again: "))
     else:
       break
-    else:
-      break
-print("you guessed it right !!")
+print("you guessed it right !!") 
